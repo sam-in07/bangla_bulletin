@@ -49,6 +49,7 @@ class Homepage extends StatelessWidget {
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(20),
                           color: Theme.of(context).colorScheme.background,
+
                         ),
                       ),
                     ],
